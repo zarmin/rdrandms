@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="icell-3rdparty" />
+      <option name="name" value="Internal Release Repository" />
+      <option name="url" value="https://nexus.icellmobilsoft.hu/content/repositories/thirdparty" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="icell-releases" />
+      <option name="name" value="i-Cell Releases" />
+      <option name="url" value="https://nexus.icellmobilsoft.hu/repository/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="icell_public-repository" />
+      <option name="name" value="Internal Public Repository" />
+      <option name="url" value="https://nexus.icellmobilsoft.hu/repository/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="icell-public-repository" />
+      <option name="name" value="Internal Public Repository" />
+      <option name="url" value="https://nexus.icellmobilsoft.hu/repository/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="itware-external" />
+      <option name="name" value="ITware external" />
+      <option name="url" value="http://nexus.itwarekft.local/repository/itware-external/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="icell-snapshots" />
+      <option name="name" value="i-Cell Snapshots" />
+      <option name="url" value="https://nexus.icellmobilsoft.hu/repository/snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="icell_snapshots" />
+      <option name="name" value="i-Cell Snapshots" />
+      <option name="url" value="https://nexus.icellmobilsoft.hu/repository/snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="icell_releases" />
+      <option name="name" value="i-Cell Releases" />
+      <option name="url" value="https://nexus.icellmobilsoft.hu/repository/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="icell_3rdparty" />
+      <option name="name" value="Internal Release Repository" />
+      <option name="url" value="https://nexus.icellmobilsoft.hu/content/repositories/thirdparty" />
+    </remote-repository>
+  </component>
+</project>
